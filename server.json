@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "image": "https://www.196flavors.com/wp-content/uploads/2019/11/yakisoba-2-FP.jpg",
+      "name": "Yakisoba",
+      "price": "24.99",
+      "description": "Yakisoba genérico.",
+      "available": true
     }
   ]
 }
